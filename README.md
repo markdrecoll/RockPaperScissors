@@ -1,8 +1,4 @@
 # rockpaperscissors
 
-Mark Drecoll
-
-04/1/21
-
-
+## Description
 A simple javascript game of rock paper scissors.
